@@ -1,4 +1,0 @@
-GitTest
-=======
-
-git test commands
